@@ -82,8 +82,8 @@ relatively highly funded (reached 86% of goal), it had only 10 backers with an
 average donation of $248.50. A plot comparing the amount of backers or average  
 donation to outcome would be useful for identifying a better goal amount given  
 an amount of expected backers for a project.  
-Additionally, especially since the year of each project was extracted, it would 
-be useful to identify historic patterns. Like the outcome vs launch date plot,  
+Additionally, especially since the year of each project was extracted, it would  
+be useful to identify historic patterns. Like the outcome vs launch date plot,   
 the proportion of successes on a monthly basis could be shown over time, and  
 may be a more appropriate method of revealing current launch date patterns of  
 successful projects.
